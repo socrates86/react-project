@@ -1,0 +1,12 @@
+.parent{
+   display: flex;
+   flex-direction: column;
+   
+   
+}
+.child {
+    background-color: orange;
+    margin: 10px;
+    width: 80px;
+    align-content: center;
+}
